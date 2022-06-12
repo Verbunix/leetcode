@@ -6,8 +6,8 @@ function isPalindrome(x: number): boolean {
     if (list[i] !== list[j]) return false;
   }
   return true;
-};
+}
 
-console.log(isPalindrome(121));
-console.log(isPalindrome(-121));
-console.log(isPalindrome(10));
+// console.log(isPalindrome(121)); // true
+// console.log(isPalindrome(-121)); // false
+// console.log(isPalindrome(10)); // false
