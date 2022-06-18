@@ -3,8 +3,6 @@ function longestOnes(nums: number[], k: number): number {
 
   for (let right = 0, left = 0, zeros = 0; right < nums.length; right++) {
     if (nums[right] === 0) {
-      if ((nums.length - right) < maxLong) return maxLong;
-
       while (zeros >= k) {
         if (nums[left] === 0) zeros--;
         left++;
