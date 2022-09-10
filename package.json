@@ -2,5 +2,8 @@
   "dependencies": {
     "ts-node": "^10.8.0",
     "tsc": "^2.0.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.3"
   }
 }
