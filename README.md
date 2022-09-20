@@ -13,6 +13,7 @@ LeetCode
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[TypeScript](../master/21-merge-two-sorted-lists.ts)|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[TypeScript](../master/26-remove-duplicates-from-sorted-array.ts)|
 |66|[Plus One](https://leetcode.com/problems/plus-one/submissions/)|[TypeScript](../master/66-plus-one.ts)|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[TypeScript](../master/69-sqrtx.ts)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[TypeScript](../master/104-maximum-depth-of-binary-tree.ts)|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[TypeScript](../master/237-delete-node-in-a-linked-list.ts)|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[TypeScript](../master/344-reverse-string.ts)|
