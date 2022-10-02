@@ -16,6 +16,7 @@ LeetCode
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[TypeScript](../master/69-sqrtx.ts)|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[TypeScript](../master/70-climbing-stairs.ts)|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[TypeScript](../master/88-merge-sorted-array.ts)|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[TypeScript](../master/94-binary-tree-inorder-traversal.ts)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[TypeScript](../master/104-maximum-depth-of-binary-tree.ts)|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[TypeScript](../master/237-delete-node-in-a-linked-list.ts)|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[TypeScript](../master/344-reverse-string.ts)|
