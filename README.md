@@ -12,6 +12,7 @@ LeetCode
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[TypeScript](../master/20-valid-parentheses.ts)|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[TypeScript](../master/21-merge-two-sorted-lists.ts)|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[TypeScript](../master/26-remove-duplicates-from-sorted-array.ts)|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150)|[TypeScript](../master/27-remove-element.ts)|
 |66|[Plus One](https://leetcode.com/problems/plus-one/submissions/)|[TypeScript](../master/66-plus-one.ts)|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[TypeScript](../master/69-sqrtx.ts)|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[TypeScript](../master/70-climbing-stairs.ts)|
