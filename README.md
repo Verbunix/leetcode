@@ -18,6 +18,7 @@ LeetCode
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[TypeScript](../master/70-climbing-stairs.ts)|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[TypeScript](../master/88-merge-sorted-array.ts)|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[TypeScript](../master/94-binary-tree-inorder-traversal.ts)|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[TypeScript](../master/100-same-tree.ts)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[TypeScript](../master/104-maximum-depth-of-binary-tree.ts)|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[TypeScript](../master/125-valid-palindrome.ts)|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[TypeScript](../master/209-minimum-size-subarray-sum.ts)|
