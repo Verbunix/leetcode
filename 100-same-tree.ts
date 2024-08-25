@@ -1,3 +1,5 @@
+import { TreeNode } from './common';
+
 /**
  * Definition for a binary tree node.
  * class TreeNode {
@@ -11,7 +13,6 @@
  *     }
  * }
  */
-
 function isSameTree(p: TreeNode | null, q: TreeNode | null): boolean {
   let pArray: (number | null)[] = [];
   let qArray: (number | null)[] = [];

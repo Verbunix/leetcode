@@ -21,6 +21,7 @@ LeetCode
 |100|[Same Tree](https://leetcode.com/problems/same-tree/)|[TypeScript](../master/100-same-tree.ts)|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[TypeScript](../master/104-maximum-depth-of-binary-tree.ts)|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[TypeScript](../master/125-valid-palindrome.ts)|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[TypeScript](../master/138-copy-list-with-random-pointer.ts)|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[TypeScript](../master/209-minimum-size-subarray-sum.ts)|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[TypeScript](../master/237-delete-node-in-a-linked-list.ts)|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[TypeScript](../master/344-reverse-string.ts)|
