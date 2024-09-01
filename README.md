@@ -26,4 +26,5 @@ LeetCode
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[TypeScript](../master/237-delete-node-in-a-linked-list.ts)|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[TypeScript](../master/344-reverse-string.ts)|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[TypeScript](../master/383-ransom-note.ts)|
+|637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)|[TypeScript](../master/637-average-of-levels-in-binary-tree.ts)|
 |1004|[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)|[TypeScript](../master/1004-max-consecutive-ones-iii.ts)|
