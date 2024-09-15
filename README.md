@@ -24,6 +24,7 @@ LeetCode
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[TypeScript](../master/125-valid-palindrome.ts)|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[TypeScript](../master/138-copy-list-with-random-pointer.ts)|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[TypeScript](../master/209-minimum-size-subarray-sum.ts)|
+|228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)|[TypeScript](../master/228-summary-ranges.ts)|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[TypeScript](../master/237-delete-node-in-a-linked-list.ts)|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[TypeScript](../master/344-reverse-string.ts)|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[TypeScript](../master/383-ransom-note.ts)|
