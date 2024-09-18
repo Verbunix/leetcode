@@ -14,6 +14,7 @@ LeetCode
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[TypeScript](../master/26-remove-duplicates-from-sorted-array.ts)|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/description/)|[TypeScript](../master/27-remove-element.ts)|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[TypeScript](../master/35-search-insert-position.ts)|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)|[TypeScript](../master/36-valid-sudoku.ts)|
 |66|[Plus One](https://leetcode.com/problems/plus-one/submissions/)|[TypeScript](../master/66-plus-one.ts)|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[TypeScript](../master/69-sqrtx.ts)|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[TypeScript](../master/70-climbing-stairs.ts)|
