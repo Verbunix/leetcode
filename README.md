@@ -28,6 +28,7 @@ LeetCode
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[TypeScript](../master/138-copy-list-with-random-pointer.ts)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/)|[TypeScript](../master/202-happy-number.ts)|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[TypeScript](../master/209-minimum-size-subarray-sum.ts)|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[TypeScript](../master/215-kth-largest-element-in-an-array.ts)|
 |228|[Summary Ranges](https://leetcode.com/problems/summary-ranges/description/)|[TypeScript](../master/228-summary-ranges.ts)|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[TypeScript](../master/237-delete-node-in-a-linked-list.ts)|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[TypeScript](../master/344-reverse-string.ts)|
