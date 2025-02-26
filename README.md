@@ -27,6 +27,7 @@ LeetCode
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/description/)|[TypeScript](../master/108-convert-sorted-array-to-binary-search-tree.ts)|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)|[TypeScript](../master/125-valid-palindrome.ts)|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[TypeScript](../master/138-copy-list-with-random-pointer.ts)|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[TypeScript](../master/189-rotate-array.ts)|
 |202|[Happy Number](https://leetcode.com/problems/happy-number/description/)|[TypeScript](../master/202-happy-number.ts)|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[TypeScript](../master/209-minimum-size-subarray-sum.ts)|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)|[TypeScript](../master/215-kth-largest-element-in-an-array.ts)|
